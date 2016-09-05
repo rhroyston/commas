@@ -1,11 +1,11 @@
-# [letters.js](https://rack.pub/commas)
+# [commas.js](https://rack.pub/commas)
 ## Synopsis
 
 JavaScript Immediately-Invoked Function Expression (IIFE) automatically adds comma delimiters to numbers typed in to an HTML `textarea` or `input` element.  This JavaScript automation is not as easy as it looks!  Give it a try and be sure and partially backspace / delete over previously formatted numbers to see that formatting works in both directions.
 
 ## Code Example
 
-A working example of the code is available at [https://rack.pub/letters](https://rack.pub/commas).
+A working example of the code is available at [https://rack.pub/commas](https://rack.pub/commas).
 
 ## Motivation
 
