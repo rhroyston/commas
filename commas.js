@@ -21,7 +21,6 @@
     var lastChar = '';
     var str = '';
     var index = 0;
-    window.snackbarContainer = doc.querySelector('#toast');
 
     for (var i = 0; i < targetText.length; i++) {
 
